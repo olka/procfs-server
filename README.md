@@ -1,3 +1,6 @@
+[![Coverage Status](https://coveralls.io/repos/github/olka/procfs-server/badge.svg?branch=master)](https://coveralls.io/github/olka/procfs-server?branch=master)
+[![Build Status](https://travis-ci.org/olka/procfs-server.svg?branch=master)](https://travis-ci.org/olka/procfs-server)
+
 Simple web GUI for [procfs-exporter](https://github.com/olka/procfs-exporter)
 
 ## Endpoints
